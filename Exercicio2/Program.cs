@@ -1,4 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
+//  Exercício 02 - Antecessor e Sucessor
 Console.WriteLine("Insira um número inteiro no campo abaixo");
 int numero1 = int.Parse(Console.ReadLine());
 Console.WriteLine("O numero inserido foi" + numero1);
